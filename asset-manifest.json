@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eCom-live/static/css/main.db9280b9.css",
-    "main.js": "/eCom-live/static/js/main.757572f8.js",
+    "main.js": "/eCom-live/static/js/main.aeed28e3.js",
     "static/media/logo black.png": "/eCom-live/static/media/logo black.6b5bdfa8cbc9d197cf48.png",
     "static/media/card.png": "/eCom-live/static/media/card.208fdf794a12634379fe.png",
     "static/media/logo white.png": "/eCom-live/static/media/logo white.27faef0e96c8b209f845.png",
@@ -13,10 +13,10 @@
     "static/media/dis.png": "/eCom-live/static/media/dis.15bb9663868334f391e1.png",
     "index.html": "/eCom-live/index.html",
     "main.db9280b9.css.map": "/eCom-live/static/css/main.db9280b9.css.map",
-    "main.757572f8.js.map": "/eCom-live/static/js/main.757572f8.js.map"
+    "main.aeed28e3.js.map": "/eCom-live/static/js/main.aeed28e3.js.map"
   },
   "entrypoints": [
     "static/css/main.db9280b9.css",
-    "static/js/main.757572f8.js"
+    "static/js/main.aeed28e3.js"
   ]
 }
