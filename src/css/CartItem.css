@@ -1,0 +1,60 @@
+#main{
+    width: 66%;
+}
+.item_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    background-color: white;
+    width: 95%;
+    border-radius: 10px;
+    padding: 10px;
+}
+.cart_img{
+    width: 60px;
+}
+.cart_item{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.close:hover{
+    color: red;
+    transition-duration: 100ms;
+    cursor: pointer; 
+}
+.quantity1{
+    display: flex;
+    align-items: center;
+}
+.quan_box1{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    border: 1px solid gray;
+    padding: 5px;
+    padding-left: 12px;
+    border-radius: 4px;
+}
+.quan_btn1{
+    margin: 0px 10px;
+    background: none;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+
+
+
+
+
+@media(max-width:1146px){
+    .item_box{
+        flex-direction: column;
+    }
+    .cart_item{
+        flex-direction: column;
+    }
+}

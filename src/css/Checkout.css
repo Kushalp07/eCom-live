@@ -1,0 +1,10 @@
+.con{
+    color: orangered;
+    font-size: xx-large;
+}
+#height{
+    height: 386px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
